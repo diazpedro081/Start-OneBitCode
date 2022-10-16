@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400,700|PT++Mono);
 
 :root {
-    --primary-color: hsl(213, 48%, 46%);
-    --secondary-color: DimGrey;
-    --tertiary-color: Gainsboro;
+    --primary-color: #1B98E0;
+    --secondary-color: #13293D;
+    --tertiary-color: #E8F1F2;
 } 
 
 body {
